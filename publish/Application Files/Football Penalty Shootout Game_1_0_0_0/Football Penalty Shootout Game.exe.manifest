@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Football Penalty Shootout Game.exe" version="1.0.0.0" publicKeyToken="8c8ec882c0156b2e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Football Penalty Shootout Game" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Football Penalty Shootout Game.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Football Penalty Shootout Game.exe" size="1234864">
+      <assemblyIdentity name="Football Penalty Shootout Game" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>T8BKc4ZEOsCWwTOZlV6dIalq18TUkXSlupA1gwdEDbk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Football Penalty Shootout Game.exe.config" size="197">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>B6hj4dJrgpzQeDNgl1ApdWmGxHnSGaBp/IyQgrJSqL0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\background.png" size="11693">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZI1801fnRiYDaZbcfEbCUxh9LOUxfCdmRR4nWhemc1U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\backgroundMusic.wav" size="3771726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9c4xeKB0vrI/5nKUpF9Xq3FNrAr7n90NxoDtCbMJVtk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\ball.png" size="282192">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SmDBNglOdzeSqJmh9KdMbVfZcq7D3P8JCNvAIRTL6cI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\goalSound.wav" size="9358018">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Hxt4FoiAegaz/tiyuLjo/YxtsWKL8Z5Yz2gNoAlYXfs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\left-save-small.png" size="103270">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>l9ZBwyIfxl838On8URXlM1LjS4ZOZSNObd+3+hPSJJ4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\missSound.wav" size="1204302">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mrxchKzblPFniNMoZHxUjWI+XtJz2EaInoGFEFlNM20=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\right-save-small.png" size="101224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RJKRfYWgkCi8nHA7tg8O4cK8pDQZAksVkZ/9lSw84rE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\soundCrowd.wav" size="3771726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9c4xeKB0vrI/5nKUpF9Xq3FNrAr7n90NxoDtCbMJVtk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\stand-small.png" size="142449">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mPuJynR+9DTxDa3OIuS5sKVBRX9bxJcwImwftNkM4dY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\target.png" size="1793">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>58uVM1BNRzrlyVcbgph/zHWERH/6ZTp9npNZ0CxQCmk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\top-left-save-small.png" size="147877">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gSUgL6Rs8K3D7I3+LXB9YJXHjESUhg5xfUZ9oC1P6cs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\top-right-save-small.png" size="146952">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>djCy8cHNubqJKWTNP5OFVMzQLKYYY5qBBDpjv9j/Oxo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\top-save-small.png" size="109942">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YMvS1zWpiSpUNfJVJgUHNL2l36FG2n0S5rKXiV4EQ4Y=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DIKKEPC\oscar" issuerKeyHash="ca04fd8f170517dff289114e60b56f807c7ac190" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>R1pyZRIGIdP51SO6C6Z6rrPDnG8rNnkAikCsUEbXZ88=</DigestValue></Reference></SignedInfo><SignatureValue>iTh+XUMJNvD9LzqoSTRMY8PnidFjVSGuxoq0stt8HU4cLGtjo8iWshfpQSeRuDfn8JFFu55Z3UETUOtCl8145s5Duon7XrYRkcnvS6m+KuSte2+Qrg4Ccmmebpxgs4vXQRjvITyg7j50Ayouxu/7vSYQj+N15bCHEr20qODUFfc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xA4EQwsDOY6L80iwMfTJsz66ZSmeJEzhEa3qpuaavaqZZ02FtPmkGayqzvCJLnx7Kds+DMVQuKlCX7/vnfWJnAc7sDm/2gkD6O7VA8pWieZr/8yTakj987zPY1TDr30JQKI7pa0XijbfLr1dayFKkxrxC3rR2736Xey4ewVg2V0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cf67d74650ac408a0079362b6f9cc3b3ae7aa60bba23d5f9d321061265725a47" Description="" Url=""><as:assemblyIdentity name="Football Penalty Shootout Game.exe" version="1.0.0.0" publicKeyToken="8c8ec882c0156b2e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DIKKEPC\oscar</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2LDRw1KavKxGrodWswsIatZctG3UwRE24IHimzcGg8c=</DigestValue></Reference></SignedInfo><SignatureValue>T/JB3NlQk/OFzIM8smesdUNm8KZji/3Vgi8zztC2+2LL76OuSPUGqpxxZe4nipJbclqb/enfSFHAA+M9IwNJYWbkqrl46oJ0UmIzZRILA4o33dul+uDR7PiSUMvpoQ21NCaIp0lJvReUOfJiptPkE1KI459VnTsUIZujrR6Aslo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xA4EQwsDOY6L80iwMfTJsz66ZSmeJEzhEa3qpuaavaqZZ02FtPmkGayqzvCJLnx7Kds+DMVQuKlCX7/vnfWJnAc7sDm/2gkD6O7VA8pWieZr/8yTakj987zPY1TDr30JQKI7pa0XijbfLr1dayFKkxrxC3rR2736Xey4ewVg2V0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQZNPQvjDSSYdKDFM+8c6YrzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoARABJAEsASwBFAFAAQwBcAG8AcwBjAGEAcjAeFw0yNTAxMTcxNzA3NDhaFw0yNjAxMTcyMzA3NDhaMCUxIzAhBgNVBAMeGgBEAEkASwBLAEUAUABDAFwAbwBzAGMAYQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEDgRDCwM5jovzSLAx9MmzPrplKZ4kTOERreqm5pq9qplnTYW0+aQZrKrO8IkufHsp2z4MxVC4qUJfv++d9YmcBzuwOb/aCQPo7tUDylaJ5mv/zJNqSP3zvM9jVMOvfQlAojulrReKNt8uvV1rIUqTGvELetHbvfpd7Lh7BWDZXQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAI4XhTHnlZbzYM4i4y5iUlNX3q82RceOoihUTo7xQG37KECVIQpnDlXD4XDpkXVreV84ei227U43F7QOuh9wTkuWXCF/dUEMex5OlDWnxzy5YVq6MeMr5lrgaGjHrAYTdgM/YuIiNbOfHP8aqFlhJBVKubLf0ZnZyeTCYGATGdTj</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

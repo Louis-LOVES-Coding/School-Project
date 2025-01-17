@@ -1,0 +1,14 @@
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football_Penalty_Shootout_Game.Form1.resources
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football_Penalty_Shootout_Game.Properties.Resources.resources
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\bin\Debug\Football Penalty Shootout Game.exe.config
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\bin\Debug\Football Penalty Shootout Game.exe
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\bin\Debug\Football Penalty Shootout Game.pdb
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.exe
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.pdb
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\bin\Debug\Football Penalty Shootout Game.exe.manifest
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\bin\Debug\Football Penalty Shootout Game.application
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.exe.manifest
+C:\Users\oscar\source\repos\Football Penalty Shootout Game\Football Penalty Shootout Game\obj\Debug\Football Penalty Shootout Game.application
